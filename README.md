@@ -4,3 +4,4 @@ We're a computer science club and we do things.
 Members:
 - James Shao
 - Kalen Lu
+- Andy Mos
