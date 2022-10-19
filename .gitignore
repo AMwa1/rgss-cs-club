@@ -1,0 +1,3 @@
+# add types of files to ignore or single files 
+# ie. adding *.py will ignore all python files (files with the extention .py)
+# similarly, adding fileName.txt will ignore the text file with the name "fileName" when staging
