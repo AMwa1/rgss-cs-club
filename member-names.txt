@@ -1,3 +1,4 @@
 Members:
 - Kalen Lu
 - Ali Raza
+- Jesse Lutman
