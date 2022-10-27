@@ -3,3 +3,4 @@ Members:
 - Ali Raza
 - Jesse Lutman
 - Victor Gao
+- Rajan Dhillon
