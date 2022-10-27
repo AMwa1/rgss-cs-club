@@ -2,3 +2,4 @@ Members:
 - Kalen Lu
 - Ali Raza
 - Jesse Lutman
+- Victor Gao
