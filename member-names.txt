@@ -6,3 +6,4 @@ Members:
 - Victor Gao
 - Rajan Dhillon
 - Vincent Zheng
+- Ayrton Wong
