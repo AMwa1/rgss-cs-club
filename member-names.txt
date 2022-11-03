@@ -9,3 +9,4 @@ Members:
 - Ayrton Wong
 - Justin Yu
 - Elvis Huang
+- Parsia Nejad-Sattary
