@@ -6,6 +6,9 @@ Members:
 - Victor Gao
 - Rajan Dhillon
 - Vincent Zheng
+- Maaz Qureshi
 - Ayrton Wong
+- Nathan Liao
 - Justin Yu
 - Elvis Huang
+- Parsia Nejad-Sattary
