@@ -8,3 +8,4 @@ Members:
 - Vincent Zheng
 - Ayrton Wong
 - Justin Yu
+- Elvis Huang
