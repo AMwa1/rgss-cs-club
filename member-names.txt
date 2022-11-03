@@ -11,3 +11,4 @@ Members:
 - Nathan Liao
 - Justin Yu
 - Elvis Huang
+- Parsia Nejad-Sattary
