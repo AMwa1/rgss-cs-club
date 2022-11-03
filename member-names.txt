@@ -7,3 +7,4 @@ Members:
 - Rajan Dhillon
 - Vincent Zheng
 - Ayrton Wong
+- Justin Yu
