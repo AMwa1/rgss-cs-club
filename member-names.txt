@@ -2,11 +2,9 @@ Members:
 - Kalen Lu
 - Ali Raza
 - Jesse Lutman
-<<<<<<< HEAD
 - Jeremy Kim
-=======
 - Victor Gao
 - Rajan Dhillon
 - Vincent Zheng
 - Ayrton Wong
->>>>>>> ea4683158777c07307d222cc44088db63526a372
+- Nathan Liao
