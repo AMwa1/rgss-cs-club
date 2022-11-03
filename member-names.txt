@@ -7,9 +7,6 @@ Members:
 - Rajan Dhillon
 - Vincent Zheng
 - Ayrton Wong
-<<<<<<< HEAD
 - Nathan Liao
-=======
 - Justin Yu
 - Elvis Huang
->>>>>>> c56daa5ae8b7345625af6eba1d4dda623d06d451
