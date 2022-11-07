@@ -12,3 +12,4 @@ Members:
 - Justin Yu
 - Elvis Huang
 - Parsia Nejad-Sattary
+- Abbie Sun
