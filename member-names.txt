@@ -2,9 +2,6 @@ Members:
 - Kalen Lu
 - Ali Raza
 - Jesse Lutman
-<<<<<<< HEAD
 - Jeremy Kim
-=======
 - Victor Gao
 - Rajan Dhillon
->>>>>>> ea4683158777c07307d222cc44088db63526a372
