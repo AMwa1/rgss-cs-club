@@ -1,26 +1,34 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;600&display=swap');
 
+
+:root {
+    --site-gray: #5E807F;
+    --site-green: #88d18b81;
+    --site-black: #342E37;
+    --site-white: #edf0f1;
+}
+
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;  
-    background-color: #5E807F;
+    background-color: var(--site-gray);
 }
 
 li, a {
     font-family: "Poppins", sans-serif;
     font-weight: 300;
-    font-size: 24px;
-    color: #edf0f1;
+    font-size: 1.5vw;
+    color: var(--site-white);
     text-decoration: none;
-    background-color: #342E37;
+    background-color: var(--site-black);
 }
 
 button {
     font-family: "Poppins", sans-serif;
     font-weight: 400;
-    font-size: 24px;
-    color: #edf0f1;
+    font-size: 1.5vw;
+    color: var(--site-white);
     text-decoration: none;
 
     margin-left: 20px;
@@ -33,7 +41,7 @@ button {
 }
 
 button:hover {
-    background-color: #88d18b81;
+    background-color: var(--site-green);
 }
 
 header {
@@ -41,30 +49,31 @@ header {
     justify-content: flex-end;
     align-items: center;
     padding: 50px 10%;
-    background-color: #342E37;
+    background-color: var(--site-black);
 }
 
 .logo {
     cursor: pointer;
     margin-right: auto;
-    width: 200px;
-    height: 200px;
+    width: 7.5vw;
+    height: 7.5vw;
     border-radius: 25px;
     background-color: #88D18A;
     transition: all 0.3s ease 0s;
 }
 
 .logo:hover {
-    background-color: #88d18b81;
+    background-color: var(--site-green);
 }
 
 .title {
     font-family: "Poppins", sans-serif;
     font-weight: 600;
-    font-size: 75px;
-    color: #edf0f1;
+    font-size: 3vw;
+    color: var(--site-white);
+    padding-left: 2vw;
     text-decoration: none;
-    background-color: #342E37;
+    background-color: var(--site-black);
     margin-right: auto;
     text-align: center;
 }
@@ -72,16 +81,16 @@ header {
 .subtitle {
     font-family: "Poppins", sans-serif;
     font-weight: 600;
-    font-size: 100px;
-    color: #edf0f1;
+    font-size: 5vw;
+    color: var(--site-white);
     padding: 60px 5%;
 }
 
 .text {
     font-family: "Poppins", sans-serif;
     font-weight: 100;
-    font-size: 40px;
-    color: #edf0f1;
+    font-size: 2vw;
+    color: var(--site-white);
     padding: 0px 5%;
 }
 
@@ -109,12 +118,12 @@ li, button, .title, .logo {
 
 .nav-list {
     list-style: none;
-    background-color: #342E37;
+    background-color: var(--site-black);
 }
 
 .nav-list li {
     display: inline-block;
-    padding: 0px 20px;
+    padding: 0px 1vw;
 }
 
 .nav-list li a {
