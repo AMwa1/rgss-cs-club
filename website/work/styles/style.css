@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;600&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;  
+    background-color: #5E807F;
+}
+
+li, a {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+    color: #edf0f1;
+    text-decoration: none;
+    background-color: #342E37;
+}
+
+button {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #edf0f1;
+    text-decoration: none;
+
+    margin-left: 20px;
+    padding: 10px 25px;
+    background-color: rgb(136, 209, 138);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+button:hover {
+    background-color: #88d18b81;
+}
+
+header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 50px 10%;
+    background-color: #342E37;
+}
+
+.logo {
+    cursor: pointer;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 25px;
+    background-color: #88D18A;
+    transition: all 0.3s ease 0s;
+}
+
+.logo:hover {
+    background-color: #88d18b81;
+}
+
+.title {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 75px;
+    color: #edf0f1;
+    text-decoration: none;
+    background-color: #342E37;
+    margin-right: auto;
+    text-align: center;
+}
+
+.subtitle {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 100px;
+    color: #edf0f1;
+    padding: 60px 5%;
+}
+
+.text {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-size: 40px;
+    color: #edf0f1;
+    padding: 0px 5%;
+}
+
+li, button, .title, .logo {
+    animation: fadeNav ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+.subtitle, .text {
+    animation: fadeNav ease 5s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fadeNav {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+    
+}
+
+.nav-list {
+    list-style: none;
+    background-color: #342E37;
+}
+
+.nav-list li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.nav-list li a {
+    transition: all 0.3s ease 0s;
+}
+
+.nav-list li a:hover {
+    color: #88D18A;
+}
