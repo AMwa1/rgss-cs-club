@@ -18,7 +18,7 @@
 li, a {
     font-family: "Poppins", sans-serif;
     font-weight: 300;
-    font-size: 24px;
+    font-size: 1.5vw;
     color: var(--site-white);
     text-decoration: none;
     background-color: var(--site-black);
@@ -27,7 +27,7 @@ li, a {
 button {
     font-family: "Poppins", sans-serif;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 1.5vw;
     color: var(--site-white);
     text-decoration: none;
 
@@ -55,8 +55,8 @@ header {
 .logo {
     cursor: pointer;
     margin-right: auto;
-    width: 200px;
-    height: 200px;
+    width: 7.5vw;
+    height: 7.5vw;
     border-radius: 25px;
     background-color: #88D18A;
     transition: all 0.3s ease 0s;
@@ -69,8 +69,9 @@ header {
 .title {
     font-family: "Poppins", sans-serif;
     font-weight: 600;
-    font-size: 75px;
+    font-size: 3vw;
     color: var(--site-white);
+    padding-left: 2vw;
     text-decoration: none;
     background-color: var(--site-black);
     margin-right: auto;
@@ -80,7 +81,7 @@ header {
 .subtitle {
     font-family: "Poppins", sans-serif;
     font-weight: 600;
-    font-size: 100px;
+    font-size: 5vw;
     color: var(--site-white);
     padding: 60px 5%;
 }
@@ -88,7 +89,7 @@ header {
 .text {
     font-family: "Poppins", sans-serif;
     font-weight: 100;
-    font-size: 40px;
+    font-size: 2vw;
     color: var(--site-white);
     padding: 0px 5%;
 }
@@ -122,7 +123,7 @@ li, button, .title, .logo {
 
 .nav-list li {
     display: inline-block;
-    padding: 0px 20px;
+    padding: 0px 1vw;
 }
 
 .nav-list li a {
