@@ -7,7 +7,7 @@
     font-size: 0.9em;
     font-family: sans-serif;
     min-width: 400px;
-    background-color: #88d18b81;
+    background-color: rgb(39, 136, 55);
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
 }
 .styled-table tbody tr {
@@ -17,7 +17,7 @@ body {
     box-sizing: border-box;
     margin: 0;
     padding: 0;  
-    background-color: #398c3d;
+    background-color: #1b6f1f;
 }
 
 
