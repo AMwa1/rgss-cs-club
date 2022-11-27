@@ -29,7 +29,6 @@ Group 4:
     Abbie
 
 Group 5:
-    Vincent
     James
     Andy Z.
     Aryton
