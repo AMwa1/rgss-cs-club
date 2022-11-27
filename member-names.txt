@@ -5,6 +5,8 @@ Members:
 - Jeremy Kim
 - Victor Gao
 - Rajan Dhillon
+<<<<<<< HEAD
+=======
 - Vincent Zheng
 - Maaz Qureshi
 - Ayrton Wong
@@ -12,3 +14,5 @@ Members:
 - Justin Yu
 - Elvis Huang
 - Parsia Nejad-Sattary
+- Abbie Sun
+>>>>>>> af922da6aa2f5ba45782d248e605ef16a4f1af76
