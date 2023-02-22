@@ -1,3 +1,3 @@
 # rgss-cs-club
 We're a computer science club and we do things.\
-`Nov. 17, 2022` - Work on the website.
+`Feb. 2023` - What will we do next?
