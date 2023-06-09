@@ -1,5 +1,42 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;600&display=swap');
 
+/* Extra small devices */
+@media (max-width: 575px)
+{
+    h1
+    {
+        font-size: 24px;
+    }
+    .container-fluid
+    {
+        padding: 0;
+    }
+}
+/* Small devices */
+@media (min-width: 576px) and (max-width: 767px)
+{
+    h1
+    {
+        font-size: 24px!important;
+    }
+}
+/* Medium devices */
+@media (min-width: 768px) and (max-width: 991px)
+{
+    h1
+    {
+        font-size: 30px;
+    }
+}
+/* Large devices */
+@media (min-width: 992px)
+{
+    h1
+    {
+        font-size: 64px;
+    }
+}
+
 
 :root {
     --site-gray: #5E807F;
