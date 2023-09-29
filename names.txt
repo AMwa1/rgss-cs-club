@@ -21,14 +21,7 @@ Charley L
 Lachlan C
 James S
 Hyunseo P
-<<<<<<< HEAD
-
->>>>>>> 26eb8dc17608da1a2c642b47a764fea3ef9e701b
-=======
-
-
->>>>>>> ac9bf857db0b122df702d4ea4870593a9ef951bd
->>>>>>> 4ba040c50b60899c586723abdd6c15cc2f4a7645.  
+  
 
 Isabella Z
 Kenneth L
