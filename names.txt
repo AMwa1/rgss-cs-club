@@ -8,6 +8,10 @@ Hossane T
 Yonathan D
 John T
 Kasra M
+Cyrus W
+<<<<<<< HEAD
+
+=======
 Daniel R
 Brandon C
 Charley L
@@ -15,4 +19,10 @@ Lachlan C
 James S
 
 Hyunseo P
+<<<<<<< HEAD
 
+>>>>>>> 26eb8dc17608da1a2c642b47a764fea3ef9e701b
+=======
+
+
+>>>>>>> ac9bf857db0b122df702d4ea4870593a9ef951bd
