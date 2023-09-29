@@ -1,5 +1,8 @@
+<<<<<<< HEAD
+=======
 Once you are in the repository press "space + ."
 benson y
+>>>>>>> af4e9e6459175f9ca230d91adfb1b2fb96b9a6c3
 Vincent Z
 Andy M
 Victor G
@@ -16,6 +19,7 @@ Cyrus W
 Daniel R
 Brandon C
 Charley L
+Ethan L
 Lachlan C
 James S
 Hyunseo P
