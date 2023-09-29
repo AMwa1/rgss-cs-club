@@ -1,3 +1,4 @@
+Once you are in the repository press "space + ."
 benson y
 Vincent Z
 Andy M
@@ -10,4 +11,7 @@ Kasra M
 Daniel R
 Brandon C
 Charley L
+Lachlan C
+
+
 Hyunseo P
