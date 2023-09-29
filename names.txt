@@ -37,8 +37,4 @@ Erik
 Isabella Z
 Kenneth L
 Andy Z
-<<<<<<< HEAD
->>>>>>> e23ad509e2f968cc35587bef2a1e7a2b81f877ce
-=======
 Chris C
->>>>>>> a2e26f58e331bda8d6041f0530f9ba729accfe38
