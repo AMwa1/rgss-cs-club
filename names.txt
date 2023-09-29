@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 Once you are in the repository press "space + ."
-=======
 Vincent Z
->>>>>>> 9fb08274503c31bf3521f19e44b46514f7ba45cb
 Andy M
 Victor G
 Rajan D
