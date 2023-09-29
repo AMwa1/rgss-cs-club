@@ -8,6 +8,9 @@ Hossane T
 Yonathan D
 John T
 Kasra M
+<<<<<<< HEAD
+
+=======
 Cyrus W
 <<<<<<< HEAD
 
@@ -25,3 +28,8 @@ Hyunseo P
 
 
 >>>>>>> ac9bf857db0b122df702d4ea4870593a9ef951bd
+>>>>>>> 4ba040c50b60899c586723abdd6c15cc2f4a7645.  
+
+Isabella Z
+Kenneth L
+Andy Z
