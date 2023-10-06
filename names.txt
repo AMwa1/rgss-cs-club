@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-=======
-Once you are in the repository press "space + ."
-benson y
->>>>>>> af4e9e6459175f9ca230d91adfb1b2fb96b9a6c3
+Once on the repository page, press "Space + ." to open the web editor.
+
 Vincent Z
 Andy M
 Victor G
