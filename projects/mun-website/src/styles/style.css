@@ -1,3 +1,41 @@
-body {
-    font-family: sans-serif;
-}
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .img-holder {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  img {
+    width: 15%;
+    height: 15%;
+  }
+  
+  .container-holder {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 170px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 170px;
+    color: white;
+    position: absolute;
+    bottom: 0;
+  }
+  
+  .island-container {
+    width: 40%;
+    height: 40%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
