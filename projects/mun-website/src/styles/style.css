@@ -17,6 +17,7 @@ html {
   }
   
   .container-holder {
+    width: 100%;
     background-color: black;
     display: flex;
     flex-direction: column;
