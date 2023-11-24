@@ -55,3 +55,16 @@ img {
 button{
   background-color: lightgreen;
 }
+
+
+.committes-page h1 {
+  color: #15843c;
+}
+
+.committes-page * {
+  color: white;
+}
+
+.p-3 {
+  border: 2px solid #60d188 !important;
+}
