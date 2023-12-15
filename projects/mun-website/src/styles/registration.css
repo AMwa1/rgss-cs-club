@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(331deg, #312e2e 25%, #474343 50%, #9b9090 100%);
+    background-color: #3c3737;
+    font-size: 20px;
+    font-family: "Trebuchet MS", sans-serif;
+    text-align: center;
+    color: #ffffff;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    padding: 5px;
+}
+
+hr {
+    border: 5px solid #167d16;
+}
+
+/* We can't really position any of the images or background image without the assets so they're empty for now */
+
+/* #backgroundimage {
+
+} */
+
