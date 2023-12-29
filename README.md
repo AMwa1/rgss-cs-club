@@ -2,4 +2,6 @@
 We are a computer science club and we do things.\
 This repo is where we work on our projects and store other things we worked on.\
 \
-`November 2023` - Working on the MUN website
+`January 2024` - Happy new year! We will be setting up Raspberry Pis for February.\
+\
+The MUN website is complete!
