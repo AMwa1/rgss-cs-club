@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(331deg, #312e2e 25%, #474343 50%, #9b9090 100%);
+    background: linear-gradient(360deg, #474343 50%, #000000 100%);
     background-color: #3c3737;
     font-size: 20px;
     font-family: "Trebuchet MS", sans-serif;
@@ -11,6 +11,10 @@ ul {
     list-style-type: none;
     text-align: center;
     padding: 5px;
+}
+
+#funnyID {
+    color: white;
 }
 
 hr {
