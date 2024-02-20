@@ -7,6 +7,26 @@ body {
     color: #ffffff;
 }
 
+.container-holder {
+    width: 100%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 3%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 3%;
+    color: white;
+    bottom: 0;
+}
+
+#instagram-button {
+    text-decoration: none;
+    color: inherit;
+}
+
 ul {
     list-style-type: none;
     text-align: center;
